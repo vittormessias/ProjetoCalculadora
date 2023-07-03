@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    
+}
+
+main{
+    text-align: center;
+    width: 200px;
+    height: 210px;
+    min-width: 300px;
+    max-width: 1000px;
+    margin: auto;
+    height: 100%;
+    margin-bottom: 30px;
+    margin-top: 3px;
+    padding: 20px;
+    background-color: rgba(82, 80, 189, 0.486);
+    box-shadow: 3px 2px 2px rgba(0, 0, 0, 0.418);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
